@@ -1,8 +1,8 @@
 
-<img src="./src/public/banner.png"/>
+<img src="./src/public/banner.png" style="width:100%;"/>
 
 
-<strong style="font-size: 28px">Projeto Cosmos </strong> 👨‍💻 (Em desenvolvimento) 
+<h1>Projeto Cosmos </h1> 👨‍💻 (Em desenvolvimento) 
 
 ## Guia
 <a href="#projeto-cosmos"> 🔷 Descrição do projeto; </a>
