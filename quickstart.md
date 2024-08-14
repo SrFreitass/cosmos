@@ -1,3 +1,3 @@
-<img src="./src/public/quickstart.png"/>
+<img src="./src/public/images/quickstart.png"/>
 
 ## Pré-requisitos

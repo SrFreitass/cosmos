@@ -1,0 +1,1 @@
+<img src="./src/public/images/doc.png" style="width:100%;"/>

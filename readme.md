@@ -1,5 +1,5 @@
 
-<img src="./src/public/banner.png" style="width:100%;"/>
+<img src="./src/public/images/banner.png" style="width:100%;"/>
 
 
 <h1>Projeto Cosmos </h1> 👨‍💻 (Em desenvolvimento) 
