@@ -24,8 +24,8 @@ Esse projeto, planejado por Guilherme Freitas, estudante do 2ยบ ano do ensino mร
 
 Desenvolvedores/Contribuintes :octocat:
 
-| [<img src="https://github.com/srfreitass.png" width=115><br><sub>Guilherme Freitas</sub>](https://github.com/srfreitass) | 
-| :---: | 
+| [<img src="https://github.com/srfreitass.png" width=115><br><sub>Guilherme Freitas</sub>](https://github.com/srfreitass) | [<img src="https://github.com/guilhermenantes.png" width=115><br><sub>Guilherme Nantes</sub>](https://github.com/srfreitass)
+| :---: | :---: |
 
 ##
 
