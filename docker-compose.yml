@@ -1,0 +1,10 @@
+services:
+    db:
+      image: postgres:alpine
+      volumes:
+        - ~/postgresql:/var/lib/postgresql/data
+      ports:
+        - 5432:5432
+      enviroment:
+        - POSTGRES_DB=cosmosdb
+        - POSTGRES_PASSWORD=admin
